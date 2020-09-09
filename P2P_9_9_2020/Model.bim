@@ -22477,34 +22477,42 @@
         "members": [
           {
             "memberName": "p2pg-pbi-rptdevl@groups.pg.com",
+            "memberId": "p2pg-pbi-rptdevl@groups.pg.com#AzureAD",
             "identityProvider": "AzureAD"
           },
           {
             "memberName": "P2PG-PBI-RPTUSERS@groups.pg.com",
+            "memberId": "P2PG-PBI-RPTUSERS@groups.pg.com#AzureAD",
             "identityProvider": "AzureAD"
           },
           {
             "memberName": "gbs-globalspp-reportinganalytics@groups.pg.com",
+            "memberId": "gbs-globalspp-reportinganalytics@groups.pg.com#AzureAD",
             "identityProvider": "AzureAD"
           },
           {
             "memberName": "cnf-sppoamericas@groups.pg.com",
+            "memberId": "cnf-sppoamericas@groups.pg.com#AzureAD",
             "identityProvider": "AzureAD"
           },
           {
             "memberName": "s2pg-pbi-azrrdr-ro@groups.pg.com",
+            "memberId": "s2pg-pbi-azrrdr-ro@groups.pg.com#AzureAD",
             "identityProvider": "AzureAD"
           },
           {
             "memberName": "s2pg-pbi-bd2exn-ro@groups.pg.com",
+            "memberId": "s2pg-pbi-bd2exn-ro@groups.pg.com#AzureAD",
             "identityProvider": "AzureAD"
           },
           {
             "memberName": "s2pg-pbi-bd2buy-ro@groups.pg.com",
+            "memberId": "s2pg-pbi-bd2buy-ro@groups.pg.com#AzureAD",
             "identityProvider": "AzureAD"
           },
           {
             "memberName": "s2pg-pbi-azradm-ad@groups.pg.com",
+            "memberId": "s2pg-pbi-azradm-ad@groups.pg.com#AzureAD",
             "identityProvider": "AzureAD"
           }
         ]
@@ -22515,6 +22523,7 @@
         "members": [
           {
             "memberName": "p2pg-pbi-azradm-ad@groups.pg.com",
+            "memberId": "p2pg-pbi-azradm-ad@groups.pg.com#AzureAD",
             "identityProvider": "AzureAD"
           }
         ]
